@@ -84,7 +84,7 @@ const Sidebar = () => {
         <div>
           <hr />
           <MenuItems
-            label='Profile'
+            label='Overview'
             address='/dashboard'
             icon={FaUser}
           />
